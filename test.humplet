@@ -1,0 +1,8 @@
+/*
+humplet: cool ass programming language
+*/
+
+let x be 10. // id x
+let y be 12. // id y
+
+if x lt y then y else x.
